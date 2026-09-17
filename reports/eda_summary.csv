@@ -1,0 +1,10 @@
+Metric,Value
+total_rows,62930.0
+total_stores,5.0
+total_products,20.0
+total_categories,5.0
+total_regions,4.0
+total_units_sold,9975582.0
+average_weekly_demand,158.52
+average_inventory,274.42
+demand_outliers,933.0
