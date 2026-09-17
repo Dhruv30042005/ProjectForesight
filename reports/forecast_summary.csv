@@ -1,0 +1,2 @@
+Model,Forecast Horizon Weeks,Seasonal Baseline Lag Weeks,Backtest WAPE,Baseline WAPE,Forecast Rows,Unique Stores,Unique Products
+Random Forest Regressor,8,4,47.86,88.94,800,5,20
